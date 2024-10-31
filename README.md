@@ -25,8 +25,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rapha%C3%ABl-nicaise-68025b27a/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raphanicaise@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelnicaise&show_icons=true&locale=en&layout=compact" alt="raphaelnicaise" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelnicaise&theme=dark&show_icons=true&locale=en&layout=compact" alt="raphaelnicaise" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelnicaise&show_icons=true&locale=en" alt="raphaelnicaise" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelnicaise&theme=dark&show_icons=true&locale=en" alt="raphaelnicaise" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelnicaise&" alt="raphaelnicaise" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelnicaise&theme=dark" alt="raphaelnicaise" /></p>
