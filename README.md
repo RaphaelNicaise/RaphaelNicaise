@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-FF4B4B?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 
