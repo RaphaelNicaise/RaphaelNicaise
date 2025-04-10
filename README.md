@@ -1,4 +1,4 @@
-# Hey there 👋
+![Header](github-header-image.png)
 
 <h3 align="left">Languages, Frameworks & Tools</h3>
 
