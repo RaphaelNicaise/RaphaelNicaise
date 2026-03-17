@@ -1,36 +1,57 @@
 ![Header](assets/github-header-image.png)
 
+# Hi, I'm Raphaël Nicaise   
+
+<p align="left">
+    <img src="assets/logo-utn.png" alt="UTN Logo" width="120" align="right" />
+    <strong>Fullstack Developer & Data Engineer | Franco-Argentine</strong>
+    <br>
+    <strong>Associate Degree in Computer Programming</strong> – Universidad Tecnológica Nacional (UTN).
+    <br>
+    Currently building high-performance software at <strong>MPA Digital Solutions</strong> and scaling data pipelines.
+</p>
+
+I am a developer driven by **Cloud Architecture** and the **Data Ecosystem**. With a background in both Fullstack development and Data Engineering, I specialize in building scalable solutions that bridge the gap between robust backend systems and actionable data insights. 
+
+I am currently preparing to join **Polytech Nantes** to pursue my Engineering degree in **Data & AI**, focusing on mastering the entire data lifecycle.
+
+---
+
+---
+
 <h3 align="left">Languages, Frameworks & Tools</h3>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![ApacheAirflow](https://img.shields.io/badge/ApacheAirflow-017CEE?style=for-the-badge&logo=ApacheAirflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-FF6C37?style=for-the-badge&logo=Prefect&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=ts,python,cpp,ruby,react,next,nodejs,express,flask,django,fastapi,rails,tailwind,prisma,mongo,mongodb,mysql,postgres,redis,kafka,docker,nginx,aws,github,githubactions,git,postman,linux,supabase)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
+---
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rapha%C3%ABl-nicaise-68025b27a/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raphanicaise@gmail.com)
+### 📊 GitHub Activity
 
+<div align="center">
+    <img alt="Raphael's Stats" src="https://github-readme-stats.vercel.app/api?username=RaphaelNicaise&show_icons=true&theme=radical" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNicaise&layout=compact&theme=radical" />
+</div>
 
+---
+
+### 🏆 Certifications & Education
+
+* 🎓 **Associate Degree in Programming** - UTN FRBB
+* 📜 **Data Engineering** - UTN FRBA & DataCamp
+* 📜 **Apache Airflow** - Real-time workflow orchestration
+* 📜 **Agile Methodologies** - IBM & BetaHub
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rapha%C3%ABl-nicaise-68025b27a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
+<a href="mailto:raphanicaise@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="GMail" /></a>
+</p>
+
+---
+
+<p align="center">
+<i>"Autodidact by nature, engineer by choice."</i>
+</p>
